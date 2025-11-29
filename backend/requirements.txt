@@ -1,0 +1,5 @@
+Flask==3.0.0
+flask-cors==4.0.0
+opencv-python==4.9.0
+numpy==1.26.4
+pydub==0.25.1
